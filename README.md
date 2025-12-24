@@ -1,11 +1,12 @@
----
-title: "Guía expresión escrita A2-B1"
-welcome: "¡Hola! Guide complet en 4 étapes."
----
+# Étape 1 : Comprendre la consigne
+Copie ta consigne ici.
 
-**1️⃣ Consigne** : Colle-la ici  
-**2️⃣ Plan** : Intro | Développement | Conclusion  
-**3️⃣ Brouillon** : 3 paragraphes → feedback structure  
-**4️⃣ Révision** : 1 point fort + 2 améliorations  
+<details>
+<summary>🔹 Étape 2 : Planifier (clique pour voir)</summary>
+Plan : 1. Intro | 2. Développement | 3. Conclusion
+</details>
 
-**Connecteurs** : *primero, además, pero, en resumen*
+<details>
+<summary>📝 Étape 3 : Brouillon</summary>
+Écris ton texte en 3 paragraphes.
+</details>
