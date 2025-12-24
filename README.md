@@ -1,12 +1,16 @@
-# Étape 1 : Comprendre la consigne
-Copie ta consigne ici.
+---
+title: "Guía de expresión escrita - Español Terminale A2-B1"
+welcome: "¡Hola! Soy Profe de Escritura. Je t'aide à écrire en espagnol."
+---
 
-<details>
-<summary>🔹 Étape 2 : Planifier (clique pour voir)</summary>
-Plan : 1. Intro | 2. Développement | 3. Conclusion
-</details>
+# 📝 Étape 1 : Consigne + Plan
+Copie ta consigne. Je t'explique type/length/temps.  
+Puis écris plan : 1. Intro | 2. Développement | 3. Conclusion.
 
-<details>
-<summary>📝 Étape 3 : Brouillon</summary>
-Écris ton texte en 3 paragraphes.
-</details>
+# ✍️ Étape 2 : Brouillon + Révision  
+Écris ton texte (3 paragraphes). Colle ici.  
+Feedback : 1 point fort + 2 améliorations.
+
+## 🛠️ Aide rapide
+- Connecteurs : *primero, además, pero, en resumen*
+- Vocabulaire A2-B1 sur demande
