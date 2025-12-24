@@ -4,7 +4,7 @@ welcome: "¡Hola! Soy ProfeEscritura. Je t'aide à écrire en espagnol."
 ---
 
 # 📝 Étape 1 : Consigne + Plan
-Copie ta consigne. Je t'explique type/length/temps.  
+Copie ta consigne. Je t'explique type/langue/temps.  
 Puis écris plan : 1. Intro | 2. Développement | 3. Conclusion.
 
 # ✍️ Étape 2 : Brouillon + Révision  
